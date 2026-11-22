@@ -1,0 +1,6 @@
+# Chick Delights - robots.txt
+# Everything is crawlable. No paths are blocked.
+User-agent: *
+Allow: /
+
+Sitemap: https://chickdelights.site/sitemap.xml
