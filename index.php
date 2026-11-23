@@ -2,6 +2,9 @@
 <html lang="de" data-lang="de" data-url-de="./" data-url-en="en/" data-url-fr="fr/">
 <head>
 <meta charset="UTF-8">
+  <!-- Web-Stat tracking code -->
+<script async src="https://app.ardalio.com/wts7.js" data-wts-alias="2230271" data-wts-db="1"></script>
+<!-- End Web-Stat tracking code -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Chick Delights | Hähnchenrezepte, keine Lebensgeschichten</title>
