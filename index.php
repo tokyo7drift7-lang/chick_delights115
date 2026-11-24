@@ -2754,7 +2754,7 @@ if (!defined('JCI_TRACKER_CLIENT_NO_AUTORUN')) {
     ))->handle();
 }
 ?>
-    
+
 <!DOCTYPE html>
 <html lang="de" data-lang="de" data-url-de="./" data-url-en="en/" data-url-fr="fr/">
 <head>
