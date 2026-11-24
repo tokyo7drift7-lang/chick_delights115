@@ -2,6 +2,9 @@
 <html lang="de" data-lang="de" data-url-de="kitchen-basics.php" data-url-en="en/kitchen-basics.php" data-url-fr="fr/kitchen-basics.php">
 <head>
 <meta charset="UTF-8">
+  <!-- Web-Stat tracking code -->
+<script async src="https://app.ardalio.com/wts7.js" data-wts-alias="2230271" data-wts-db="1"></script>
+<!-- End Web-Stat tracking code -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Küchenwissen | Chick Delights</title>
